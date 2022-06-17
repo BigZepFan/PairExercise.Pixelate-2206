@@ -12,5 +12,6 @@ function makeRow() {
 
 makeRow();
 makeRow();
+
 const button = document.getElementById("add-row");
 button.addEventListener("click", makeRow);

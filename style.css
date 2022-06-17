@@ -18,4 +18,25 @@ td {
   width: 50px;
   background-color: lightgray;
 }
-/* your CSS below
+
+/* your CSS below */
+
+.navy {
+  background-color: #1d3557;
+}
+
+.midblue {
+  background-color: #457b9d;
+}
+
+.robin {
+  background-color: #a8dadc;
+}
+
+.cream {
+  background-color: #f1faee;
+}
+
+.red {
+  background-color: #e63946;
+}
