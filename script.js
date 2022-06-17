@@ -15,3 +15,7 @@ makeRow();
 
 const button = document.getElementById("add-row");
 button.addEventListener("click", makeRow);
+table.addEventListener("click", colorize);
+function colorize(colorize) {
+  console.log("clicked");
+}
